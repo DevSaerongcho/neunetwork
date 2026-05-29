@@ -19,4 +19,6 @@
 
 ## 🌱 생활 컨텐츠
 
+* [🥬 채집](undefined-5/undefined.md)
+
 ## ⚔️ RPG
